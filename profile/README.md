@@ -11,7 +11,9 @@
 **Explorar**  
 Visita nuestro proyecto **RobloxCrea** para comenzar.  
 
-[![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/CreaLibre/RobloxCrea)  
+[![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/LibreCrea/.github)  
+
+[![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/LibreCrea/RobloxCrea)  
 
 ---
 
