@@ -1,5 +1,8 @@
 # 📚 GrowGarden 
 
+![Vista Previa](https://i.imgur.com/R0rQl2T.png)  
+
+
 ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-3498db)  
 
 **Bienvenidos**  
