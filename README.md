@@ -5,6 +5,15 @@
 **Bienvenidos**  
 **CreaLibre** es una comunidad de 2025 con materiales gratuitos para aprender a crear. Cumple con los Términos de GitHub y Roblox.  
 
+
+
+Capturas de pantalla
+![Vista Previa](https://i.imgur.com/yALSJYW.png)  
+-
+
+![Vista Previa](https://i.imgur.com/R0rQl2T.png)  
+
+
 **Explorar**  
 Visita nuestro proyecto **RobloxCrea** para comenzar.  
 
