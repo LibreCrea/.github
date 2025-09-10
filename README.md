@@ -13,6 +13,8 @@ Capturas de pantalla
 
 ![Vista Previa](https://i.imgur.com/R0rQl2T.png)  
 
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://www.varengpool.com)
+
 
 **Explorar**  
 Visita nuestro proyecto **RobloxCrea** para comenzar.  
