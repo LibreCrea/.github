@@ -8,7 +8,7 @@
 **Explorar**  
 Visita nuestro proyecto **RobloxCrea** para comenzar.  
 
-[![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/CreaLibre/RobloxCrea)  
+
 
 ---
 
