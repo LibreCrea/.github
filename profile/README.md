@@ -1,4 +1,4 @@
-# 📚 CreaLibre  
+# 📚 GrowGarden 
 
 ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-3498db)  
 
