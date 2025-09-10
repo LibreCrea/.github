@@ -11,6 +11,9 @@
 **Explorar**  
 Visita nuestro proyecto **RobloxCrea** para comenzar.  
 
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://www.varengpool.com)
+
+
 [![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/LibreCrea/.github)  
 
 [![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/LibreCrea/RobloxCrea)  
